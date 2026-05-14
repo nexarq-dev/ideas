@@ -1,6 +1,6 @@
 # Ideas
 
-A living repository of product concepts, innovations, and research proposals by [@vektasafe-dev](https://github.com/vektasafe-dev).
+A living repository of product concepts, innovations, and research proposals by [@vektasafe](https://github.com/vektasafe).
 
 ---
 
