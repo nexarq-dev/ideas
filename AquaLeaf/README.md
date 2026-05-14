@@ -2,7 +2,7 @@
 
 **Status:** Concept  
 **Category:** Product Innovation / Sustainability / Personal Hygiene  
-**Origin:** Nairobi, Kenya — May 2025
+**Origin:** Nairobi, Kenya — May 2026
 
 ---
 
